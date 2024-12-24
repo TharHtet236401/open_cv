@@ -1,0 +1,22 @@
+# Dataset
+cats/
+dogs/
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# Allow notebooks
+!*.ipynb
