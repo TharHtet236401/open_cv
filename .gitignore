@@ -6,6 +6,7 @@ dogs/
 *.png
 *.jpg
 *.jpeg
+*.mp4
 
 # Environment
 .env
